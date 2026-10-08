@@ -1,6 +1,4 @@
-Absolutely. Copy everything below and paste it directly into your **`README.md`** file:
 
-````markdown
 # ✈️ Travel Shoppe
 
 Travel Shoppe is a full-stack travel platform designed to help users explore curated travel destinations and luxury travel experiences. The application is built using React.js, Node.js, Express.js, and MongoDB.
